@@ -1,36 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Artista Nicoletta Crapuzzi</title>
+    <title>Posts on Artist Nicoletta Crapuzzi</title>
     <link>https://nicolettacrapuzzi.it/post/</link>
-    <description>Recent content in Posts on Artista Nicoletta Crapuzzi</description>
+    <description>Recent content in Posts on Artist Nicoletta Crapuzzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 04 May 2020 18:20:03 +0200</lastBuildDate>
     
 	<atom:link href="https://nicolettacrapuzzi.it/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ART WORKS - DISEGNI</title>
-      <link>https://nicolettacrapuzzi.it/post/art_works_disegni/</link>
-      <pubDate>Mon, 04 May 2020 18:20:03 +0200</pubDate>
+      <title>ART WORKS - CANVASES</title>
+      <link>https://nicolettacrapuzzi.it/post/art_works_canvases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicolettacrapuzzi.it/post/art_works_disegni/</guid>
-      <description>Nicoletta Crapuzzi, nata il 7 dicembre 2000
-Nel 2019 consegue il diploma di maturità presso il Liceo Artistico Statale &amp;ldquo;C. Levi&amp;rdquo; di Matera.
-Durante il percorso di maturità partecipa a concorsi ed estemporanee, in cui sono stati rilasciati numerosi riconoscimenti e attestati.
-Attualmente frequenta l&amp;rsquo;accademia di Belle arti di Firenze, raffinando un percorso di formazione intorno alle tecniche della rappresentazione e alle possibilità espressive del linguaggio pittorico. Approfondisce la ricerca e l&amp;rsquo;elaborazione di idee nelle pluralità della pittura antica e accademica, e un dialogo dinamico tra temi relativi alla tradizione pittorica e la società artistica contemporanea.</description>
+      <guid>https://nicolettacrapuzzi.it/post/art_works_canvases/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>BIOGRAFIA</title>
-      <link>https://nicolettacrapuzzi.it/post/biografia/</link>
-      <pubDate>Fri, 17 Apr 2020 18:20:03 +0200</pubDate>
+      <title>ART WORKS - DRAWINGS</title>
+      <link>https://nicolettacrapuzzi.it/post/art_works_drawings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nicolettacrapuzzi.it/post/biografia/</guid>
+      <guid>https://nicolettacrapuzzi.it/post/art_works_drawings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARTIST</title>
+      <link>https://nicolettacrapuzzi.it/post/artist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolettacrapuzzi.it/post/artist/</guid>
       <description>Nicoletta Crapuzzi, nata il 7 dicembre 2000. Nel 2019 consegue il diploma di maturità presso il Liceo Artistico Statale &amp;ldquo;C. Levi&amp;rdquo; di Matera.
 Durante il percorso di maturità partecipa a concorsi ed estemporanee, in cui sono stati rilasciati numerosi riconoscimenti e attestati. Attualmente frequenta l&amp;rsquo;accademia di Belle arti di Firenze, raffinando un percorso di formazione intorno alle tecniche della rappresentazione e alle possibilità espressive del linguaggio pittorico. Approfondisce la ricerca e l&amp;rsquo;elaborazione di idee nelle pluralità della pittura antica e accademica, e un dialogo dinamico tra temi relativi alla tradizione pittorica e la società artistica contemporanea.</description>
+    </item>
+    
+    <item>
+      <title>RED BULL CURATES CANVAS COOLER</title>
+      <link>https://nicolettacrapuzzi.it/post/red_bull_curates_canvas_cooler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolettacrapuzzi.it/post/red_bull_curates_canvas_cooler/</guid>
+      <description></description>
     </item>
     
   </channel>
