@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ART WORKS - DRAWINGS</title>
-    <link>/</link>
+    <link>https://nicolettacrapuzzi.it/art_works_drawings/</link>
     <description>Recent content on ART WORKS - DRAWINGS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolettacrapuzzi.it/art_works_drawings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ART WORKS - DRAWINGS</title>
-      <link>/photo/1-trip1/</link>
+      <link>https://nicolettacrapuzzi.it/art_works_drawings/photo/1-trip1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/photo/1-trip1/</guid>
+      <guid>https://nicolettacrapuzzi.it/art_works_drawings/photo/1-trip1/</guid>
       <description></description>
     </item>
     
