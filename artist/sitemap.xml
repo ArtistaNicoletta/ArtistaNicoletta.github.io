@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nicolettacrapuzzi.it/</loc>
+    <loc>https://nicolettacrapuzzi.it/artist/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://nicolettacrapuzzi.it/bio/</loc>
+    <loc>https://nicolettacrapuzzi.it/artist/bio/</loc>
   </url>
   
   <url>
-    <loc>https://nicolettacrapuzzi.it/categories/</loc>
+    <loc>https://nicolettacrapuzzi.it/artist/categories/</loc>
   </url>
   
   <url>
-    <loc>https://nicolettacrapuzzi.it/tags/</loc>
+    <loc>https://nicolettacrapuzzi.it/artist/tags/</loc>
   </url>
   
 </urlset>
