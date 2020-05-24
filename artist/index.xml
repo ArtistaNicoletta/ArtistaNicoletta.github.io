@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nicoletta Crapuzzi</title>
+    <link>https://nicolettacrapuzzi.it/</link>
+    <description>Recent content in Home on Nicoletta Crapuzzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://nicolettacrapuzzi.it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BIOGRAPHY</title>
+      <link>https://nicolettacrapuzzi.it/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicolettacrapuzzi.it/bio/</guid>
+      <description>NICOLETTA CRAPUZZI, nata il 7 dicembre 2000.
+Nel 2019 consegue il diploma di maturità presso il Liceo Artistico Statale &amp;ldquo;C. Levi&amp;rdquo; di Matera.
+Durante il percorso di maturità partecipa a concorsi ed estemporanee, in cui sono stati rilasciati numerosi riconoscimenti e attestati.
+Attualmente frequenta l&amp;rsquo;Accademia di Belle Arti di Firenze, raffinando un percorso di formazione intorno alle tecniche della rappresentazione e alle possibilità espressive del linguaggio pittorico. Approfondisce la ricerca e l&amp;rsquo;elaborazione di idee nelle pluralità della pittura antica e accademica, e un dialogo dinamico tra temi relativi alla tradizione pittorica e la società artistica contemporanea.</description>
+    </item>
+    
+  </channel>
+</rss>
